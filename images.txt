@@ -1,5 +1,5 @@
 nginx
-node
+node:20.15.1
 mongo
 mysql
 #支持私库
